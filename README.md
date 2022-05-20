@@ -4,7 +4,12 @@
 Finite element simulation of immune system dynamics coupled with large-strain poromechanics. It relies on the [FEniCS](https://fenicsproject.org) package (tested with v.2019.1).
 
 ## Context 
-The model description can be found in the references 
+The immune system dynamics are as follows 
+
+![](https://github.com/ruizbaier/PoroelasticModelForAcuteMyocarditis/blob/main/scheme.png)
+
+## How to cite
+Further details on the model and discretisation can be found in the following two references
 
 ```
 @rticle{Barnafi21,
