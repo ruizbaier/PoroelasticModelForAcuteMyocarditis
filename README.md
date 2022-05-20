@@ -8,6 +8,11 @@ The immune system dynamics are as follows
 
 ![](https://github.com/ruizbaier/PoroelasticModelForAcuteMyocarditis/blob/main/scheme.png)
 
+And the simulations produce the following type of solutions 
+
+![](https://github.com/ruizbaier/PoroelasticModelForAcuteMyocarditis/blob/main/snapshots.png)
+
+
 ## How to cite
 Further details on the model and discretisation can be found in the following two references
 
