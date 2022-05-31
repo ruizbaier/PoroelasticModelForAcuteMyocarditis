@@ -14,7 +14,7 @@ And the simulations produce the following type of solutions
 
 
 ## How to cite
-Further details on the model and discretisation can be found in the following two references ![[1]](http://arxiv.org/abs/2111.04206) ![[2]](http://arxiv.org/abs/xxx)
+Further details on the model and discretisation can be found in the following two references [[1]](http://arxiv.org/abs/2111.04206) [[2]](http://arxiv.org/abs/xxx)
 ```
 @rticle{Barnafi21,
   url     = {http://arxiv.org/abs/2111.04206},
