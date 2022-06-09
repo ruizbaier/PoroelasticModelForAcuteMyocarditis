@@ -29,11 +29,10 @@ Further details on the model and discretisation can be found in the following tw
 }
 
 @article{Lourenco22,
-  url     = {http://xxxx},
-  doi     = {101222.xxx},
+  doi = {10.3389/fphys.2022.888515},
   year    = {2022},
-  volume  = {xxx}, 
-  pages   = {1--20},
+  volume  = {13}, 
+  pages ={e888515(1--14)},
   author  = {Louren\c{c}o, Wesley de Jesus and Reis, Ruy Freitas and 
               Ruiz-Baier, Ricardo and Rocha, Bernardo Martins and 
               Weber dos Santos, Rodrigo and Lobosco, Marcelo},
